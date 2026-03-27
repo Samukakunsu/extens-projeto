@@ -13,7 +13,7 @@ body {
 }
 
 /* ----------------- */
-/* 🔥 HEADER */
+/*  HEADER */
 .header-container {
     background-color: #29425b;
     color: white;
@@ -75,7 +75,7 @@ display:inline;
 }
 
 /* ----------------- */
-/* 🔥 CONTEÚDO PRINCIPAL */
+/*  CONTEÚDO PRINCIPAL */
 .main-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -144,7 +144,7 @@ display:inline;
 }
 
 /* ----------------- */
-/* 🔥 ANÁLISE TÉCNICA */
+/*  ANÁLISE TÉCNICA */
 .anatec {
     background-color: white;
     max-width: 850px;
@@ -195,7 +195,7 @@ display:inline;
 }
 
 /* ----------------- */
-/* 🔥 GRADIENTE TEXTO */
+/*  GRADIENTE TEXTO */
 .gradiente {
     background: linear-gradient(to right, #29425b, #346a7c);
     -webkit-background-clip: text;
@@ -206,7 +206,7 @@ display:inline;
 }
 
 /* ----------------- */
-/* 🔥 BACKGROUND DECORATIVO */
+/*  BACKGROUND DECORATIVO */
 .background-balls {
     display: flex;
     justify-content: center;
@@ -224,7 +224,7 @@ display:inline;
 }
 
 /* ----------------- */
-/* 🔥 RESPONSIVIDADE */
+/*  RESPONSIVIDADE */
 @media (max-width: 768px) {
     .main-container {
     flex-direction: row;
@@ -537,7 +537,7 @@ display: block;
 }
 
 /* ----------------- */
-/* 🔥 ANÁLISE TÉCNICA */
+/*  ANÁLISE TÉCNICA */
 .anatec {
     background-color: white;
     max-width: 850px;
@@ -588,7 +588,7 @@ display: block;
 }
 
 /* ----------------- */
-/* 🔥 GRADIENTE TEXTO */
+/*  GRADIENTE TEXTO */
 .gradiente {
     background: linear-gradient(to right, #29425b, #346a7c);
     -webkit-background-clip: text;
@@ -600,7 +600,7 @@ display: block;
 }
 
 /* ----------------- */
-/* 🔥 BACKGROUND DECORATIVO */
+/*  BACKGROUND DECORATIVO */
 .background-balls {
     display: flex;
     justify-content: center;
@@ -619,7 +619,7 @@ display: block;
 
  }
 
-/* 🔷 Ícones somem no Desktop e Notebook */
+/*  Ícones somem no Desktop e Notebook */
 @media (min-width: 769px) {
     .fa {
         display: none;
